@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "tovar-6-white",
+    "category": "tolstovki",
+    "name": "Product 6 (white, xs-m)",
+    "description": "...",
+    "price": 1280,
+    "sales": 5,
+    "date": "2020-11-06",
+    "color": "white",
+    "sizes": [
+      "xs",
+      "m"
+    ],
+    "model": "tovar-6",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-7-blue",
+    "category": "tolstovki",
+    "name": "Product 7 (blue, xs-s-m)",
+    "description": "...",
+    "price": 1280,
+    "sales": 1,
+    "date": "2020-11-06",
+    "color": "blue",
+    "sizes": [
+      "xs",
+      "s",
+      "m"
+    ],
+    "model": "tovar-7",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-8-green",
+    "category": "tolstovki",
+    "name": "Product 8 (green, xs-s-m)",
+    "description": "...",
+    "price": 1280,
+    "sales": 0,
+    "date": "2020-11-07",
+    "color": "green",
+    "sizes": [
+      "xs",
+      "s",
+      "m"
+    ],
+    "model": "tovar-8",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-6-red",
+    "category": "tolstovki",
+    "name": "Product 6 (red, s-l-xl-xxl)",
+    "description": "...",
+    "price": 1280,
+    "sales": 8,
+    "date": "2020-11-18",
+    "color": "red",
+    "sizes": [
+      "s",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "model": "tovar-6",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  }
+]

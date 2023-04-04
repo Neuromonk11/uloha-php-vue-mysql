@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Bratislava",
+    "delivery": 100
+  },
+  {
+    "id": 1,
+    "name": "Nitra",
+    "delivery": 120
+  },
+  {
+    "id": 2,
+    "name": "Kosice",
+    "delivery": 130
+  },
+  {
+    "id": 3,
+    "name": "Presov",
+    "delivery": 140
+  },
+  {
+    "id": 4,
+    "name": "Trencin",
+    "delivery": 150
+  },
+  {
+    "id": 5,
+    "name": "Leopoldov",
+    "delivery": 160
+  }
+]

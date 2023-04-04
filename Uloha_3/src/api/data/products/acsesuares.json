@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "tovar-15-gray",
+    "category": "acsesuares",
+    "name": "Product 15 (gray, xxs-xs-s)",
+    "description": "...",
+    "price": 800,
+    "sales": 4,
+    "date": "2020-11-18",
+    "color": "gray",
+    "sizes": [
+      "xxs",
+      "xs",
+      "s"
+    ],
+    "model": "tovar-15",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-16-blue",
+    "category": "acsesuares",
+    "name": "Product 16 (blue, xxs-xs-l)",
+    "description": "...",
+    "price": 600,
+    "sales": 4,
+    "date": "2020-11-18",
+    "color": "blue",
+    "sizes": [
+      "xxs",
+      "xs",
+      "l"
+    ],
+    "model": "tovar-16",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  }
+]

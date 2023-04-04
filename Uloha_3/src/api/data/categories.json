@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "mens",
+    "name": "Mens",
+    "parent": null
+  },
+  {
+    "slug": "womens",
+    "name": "Womens",
+    "parent": null
+  },
+  {
+    "slug": "child",
+    "name": "Kids",
+    "parent": null
+  },
+  {
+    "slug": "acsesuares",
+    "name": "Acsesuares",
+    "parent": null
+  },
+  {
+    "slug": "tolstovki",
+    "name": "Hoody",
+    "parent": "mens"
+  },
+  {
+    "slug": "futbolki",
+    "name": "T-shorts",
+    "parent": "mens"
+  },
+  {
+    "slug": "shtanu",
+    "name": "Pants",
+    "parent": "mens"
+  },
+  {
+    "slug": "shortu",
+    "name": "Shorts",
+    "parent": "mens"
+  },
+  {
+    "slug": "kostymu",
+    "name": "Suits",
+    "parent": "mens"
+  }
+]

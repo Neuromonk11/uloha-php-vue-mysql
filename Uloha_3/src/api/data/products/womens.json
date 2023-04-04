@@ -1,0 +1,129 @@
+[
+  {
+    "slug": "tovar-9-white",
+    "category": "womens",
+    "name": "Product 9 (white, s-m)",
+    "description": "...",
+    "price": 1280,
+    "sales": 12,
+    "date": "2020-11-08",
+    "color": "white",
+    "sizes": [
+      "s",
+      "m"
+    ],
+    "model": "tovar-9",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-10-red",
+    "category": "womens",
+    "name": "Product 10 (red, xs-s-m)",
+    "description": "...",
+    "price": 1280,
+    "sales": 3,
+    "date": "2020-11-09",
+    "color": "red",
+    "sizes": [
+      "xs",
+      "s",
+      "m"
+    ],
+    "model": "tovar-10",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-13-yellow",
+    "category": "womens",
+    "name": "Product 13 (yellow, l-m-xl)",
+    "description": "...",
+    "price": 900,
+    "sales": 15,
+    "date": "2020-11-15",
+    "color": "yellow",
+    "sizes": [
+      "l",
+      "m",
+      "xl"
+    ],
+    "model": "tovar-13",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-13-pink",
+    "category": "womens",
+    "name": "Product 13 (pink, s-l-m-xl)",
+    "description": "...",
+    "price": 900,
+    "sales": 9,
+    "date": "2020-11-15",
+    "color": "pink",
+    "sizes": [
+      "s",
+      "l",
+      "m",
+      "xl"
+    ],
+    "model": "tovar-13",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-13-orange",
+    "category": "womens",
+    "name": "Product 13 (orange, s-l-m)",
+    "description": "...",
+    "price": 1100,
+    "sales": 5,
+    "date": "2020-11-16",
+    "color": "orange",
+    "sizes": [
+      "s",
+      "l",
+      "m"
+    ],
+    "model": "tovar-13",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-13-light-blue",
+    "category": "womens",
+    "name": "Product 13 (blue, xxs-s-l-m)",
+    "description": "...",
+    "price": 1100,
+    "sales": 6,
+    "date": "2020-11-16",
+    "color": "light-blue",
+    "sizes": [
+      "xxs",
+      "s",
+      "l",
+      "m"
+    ],
+    "model": "tovar-13",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  }
+]

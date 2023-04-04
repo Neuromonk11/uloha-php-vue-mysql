@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "tovar-12-light-blue",
+    "category": "kostymu",
+    "name": "Product 12 (blue, s-l-m-xl)",
+    "description": "...",
+    "price": 800,
+    "sales": 12,
+    "date": "2020-11-14",
+    "color": "light-blue",
+    "sizes": [
+      "s",
+      "l",
+      "m",
+      "xl"
+    ],
+    "model": "tovar-12",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-12-yellow",
+    "category": "kostymu",
+    "name": "Product 12 (yellow, l-m-xl)",
+    "description": "...",
+    "price": 800,
+    "sales": 10,
+    "date": "2020-11-14",
+    "color": "yellow",
+    "sizes": [
+      "l",
+      "m",
+      "xl"
+    ],
+    "model": "tovar-12",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-12-gray",
+    "category": "kostymu",
+    "name": "Product 12 (gray, xxs-s-l-xl)",
+    "description": "...",
+    "price": 800,
+    "sales": 16,
+    "date": "2020-11-17",
+    "color": "gray",
+    "sizes": [
+      "xxs",
+      "s",
+      "l",
+      "xl"
+    ],
+    "model": "tovar-12",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  }
+]

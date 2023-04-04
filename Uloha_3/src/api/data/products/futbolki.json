@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "tovar-1-black",
+    "category": "futbolki",
+    "name": "Product 1 (black, xs-s-m)",
+    "description": "...",
+    "price": 2100,
+    "sales": 5,
+    "date": "2020-11-01",
+    "color": "black",
+    "sizes": [
+      "xs",
+      "s",
+      "m"
+    ],
+    "model": "tovar-1",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-1-white",
+    "category": "futbolki",
+    "name": "Product 1 (white, xs-s-m-l)",
+    "description": "...",
+    "price": 2100,
+    "sales": 8,
+    "date": "2020-11-02",
+    "color": "white",
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l"
+    ],
+    "model": "tovar-1",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-3-blue",
+    "category": "futbolki",
+    "name": "Product 3 (blue, xs-s-m)",
+    "description": "...",
+    "price": 780,
+    "sales": 3,
+    "date": "2020-11-03",
+    "color": "blue",
+    "sizes": [
+      "xs",
+      "s",
+      "m"
+    ],
+    "model": "tovar-3",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-1-red",
+    "category": "futbolki",
+    "name": "Product 1 (red, s-l-xl)",
+    "description": "...",
+    "price": 2100,
+    "sales": 12,
+    "date": "2020-11-18",
+    "color": "red",
+    "sizes": [
+      "s",
+      "l",
+      "xl"
+    ],
+    "model": "tovar-1",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  }
+]

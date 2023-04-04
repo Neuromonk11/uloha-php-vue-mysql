@@ -1,0 +1,47 @@
+Úloha 1.
+Navrhni entito-relačný model databázy pre systém, v ktorom môže administrátor spoločnosti pridelovať školenia, ktorých je autor, svojím zamestnancom. Spoločnosť môže mať viac ako jedného administrátora a zamestnanec môže byť naraz zamestnancom vo viacero spoločnostiach. Po každom preštudovaní školenia musí byť pre zamestnanca evidované, že absolvoval toto školenie a získal z neho certifikát v spoločnosti, u ktorej ho ma pridelené.
+
+
+Úloha 2.
+Uprav neefektívne časti PHP metódy a oprav možné chyby.
+
+public static function inefficientMethod($user_id) {
+
+	$all_certificates = [];
+	$courses = Course::where('active', 1)->all();
+	$author_courses = [];
+
+    	foreach ( $courses as $course ) {
+
+    		$user = User::where('id', $user_id)->get();
+
+	    	if ( $course->author == $user->id ) {
+
+        		$author_courses[] = $course;
+
+            	} else {
+
+            	}
+	}
+
+	$phpCertificates = [];
+    	foreach ( $courses as $course ) {
+
+    		if ( strpos( $course->certificate, 'php' ) != false ) {
+
+    			$phpCertificates[] = $course->certificate;
+    			$all_certificates[] = $course->certificate;
+    		} else {
+
+    			$all_certificates[] = $course->certificate;
+    		}
+
+	}
+
+	//...
+
+}
+
+
+Úloha 3.
+Navrhni vo Vue.js jednoduchý single page katalóg produktov eshopu (stačia 3-4 produkty s názvom, obrázkom a cenou), ktoré si používateľ bude vedieť pridať do košíka a označiť ako obľúbené alebo zrušiť obľúbenosť. Používateľ si má vedieť zobraziť svoje obľúbené produkty a produkty v košíku, odkiaľ ich vie odstrániť tlačidlom "Odstrániť" alebo znížením počtu kusov produktu v košíku na 0.

@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "tovar-14-red",
+    "category": "child",
+    "name": "Product 14 (red, xxs-xs-s-l)",
+    "description": "...",
+    "price": 600,
+    "sales": 2,
+    "date": "2020-11-18",
+    "color": "red",
+    "sizes": [
+      "xxs",
+      "xs",
+      "s",
+      "l"
+    ],
+    "model": "tovar-14",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-14-white",
+    "category": "child",
+    "name": "Product 14 (white, xxs-xs-s)",
+    "description": "...",
+    "price": 600,
+    "sales": 3,
+    "date": "2020-11-19",
+    "color": "white",
+    "sizes": [
+      "xxs",
+      "xs",
+      "s"
+    ],
+    "model": "tovar-14",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  },
+  {
+    "slug": "tovar-14-blue",
+    "category": "child",
+    "name": "Product 14 (blue, xxs-xs-l)",
+    "description": "...",
+    "price": 600,
+    "sales": 4,
+    "date": "2020-11-18",
+    "color": "blue",
+    "sizes": [
+      "xxs",
+      "xs",
+      "l"
+    ],
+    "model": "tovar-14",
+    "images": [
+      "/product.jpg",
+      "/product.jpg",
+      "/product.jpg"
+    ]
+  }
+]

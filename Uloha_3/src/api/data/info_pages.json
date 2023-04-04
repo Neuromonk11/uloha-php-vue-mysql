@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "about",
+    "title": "About",
+    "content": "..."
+  },
+  {
+    "slug": "contacts",
+    "title": "Contacts",
+    "content": "..."
+  },
+  {
+    "slug": "delivery",
+    "title": "Delivery",
+    "content": "..."
+  },
+  {
+    "slug": "return-policy",
+    "title": "Policy",
+    "content": "..."
+  },
+  {
+    "slug": "terms",
+    "title": "Terms",
+    "content": "..."
+  }
+]
